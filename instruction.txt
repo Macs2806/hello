@@ -4,3 +4,5 @@ git init - инициализировать репозиторий
 git status - проверить статус
 git add file.name - добавить файл для коммита
 git commit -m "comentaries" - закомитить файлы
+
+коментарий
