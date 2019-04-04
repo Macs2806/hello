@@ -5,3 +5,6 @@ git status - проверить статус
 git add file.name - добавить файл для коммита
 git commit -m "comentaries" - закомитить файлы
 git clone https://... - клонировать репозиторий из гитхаба
+
+git remote add origin https://github.com/Macs2806/hello.git
+git push -u origin master
